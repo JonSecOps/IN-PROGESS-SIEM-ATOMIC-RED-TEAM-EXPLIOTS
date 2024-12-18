@@ -1,4 +1,4 @@
-# SIEM / MITRE FRAMEWORK / ATOMIC RED TEAM EXPLOITS PROJECT
+# SIEM / MITRE Framework / Atomic Red Team Exploit Project
 **Project Summary:**
 This project demonstrates the deployment of MITRE ATT&CK techniques using Atomic Red Team to simulate and detect cyber exploits. It focuses on Tactic: Persistence and Technique: Create Account (T1136.001) to illustrate adversarial activity through simulated attacks. Key components include the configuration of Splunk for telemetry, PowerShell execution, and leveraging SIEM (Security Information and Event Management) to monitor and analyze attack behaviors.
 
