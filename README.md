@@ -23,3 +23,4 @@ o	Captured and analyzed telemetry data from Splunk to understand attack order an
 4. Windows Environment Setup for Attack Simulation
 5. PowerShell Scripting for Exploit Execution
 
+https://github.com/JonSecOps/SIEM-MITRE-FRAMEWORK-ATOMIC-RED-TEAM-EXPLOIT-PROJECT/blob/main/SIEM%20-%20MITRE%20FRAMEWORK%20-%20ATOMIC%20RED%20TEAM%20EXPLOITS%20PROJECT.pdf
